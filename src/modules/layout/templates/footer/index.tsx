@@ -109,11 +109,11 @@ export default async function Footer() {
               </div>
             )}
             <div className="flex flex-col gap-y-3 border-2 border-black p-4 bg-[var(--brut-paper)]">
-              <span className="txt-small-plus txt-ui-fg-base uppercase tracking-[0.15em]">Medusa</span>
+              <span className="txt-small-plus txt-ui-fg-base uppercase tracking-[0.15em]">Developer</span>
               <ul className="grid grid-cols-1 gap-y-2 text-ui-fg-subtle txt-small">
                 <li>
                   <a
-                    href="https://github.com/medusajs"
+                    href="https://github.com/Kirankumar2604"
                     target="_blank"
                     rel="noreferrer"
                     className="brutalist-link"
@@ -133,7 +133,7 @@ export default async function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/medusajs/dtc-starter"
+                    href="https://github.com/Kirankumar2604/brutalist_storefront"
                     target="_blank"
                     rel="noreferrer"
                     className="brutalist-link"
@@ -147,13 +147,13 @@ export default async function Footer() {
               <span className="txt-small-plus txt-ui-fg-base uppercase tracking-[0.15em]">Follow</span>
               <ul className="grid grid-cols-1 gap-y-2 text-ui-fg-subtle txt-small">
                 <li>
-                  <a href="https://instagram.com" target="_blank" rel="noreferrer" className="brutalist-link">Instagram</a>
+                  <a href="https://www.instagram.com/_._kirankumar_._/" target="_blank" rel="noreferrer" className="brutalist-link">Instagram</a>
                 </li>
                 <li>
-                  <a href="https://facebook.com" target="_blank" rel="noreferrer" className="brutalist-link">Facebook</a>
+                  <a href="https://www.facebook.com/share/1CxSx6dBMY/" target="_blank" rel="noreferrer" className="brutalist-link">Facebook</a>
                 </li>
                 <li>
-                  <a href="https://twitter.com" target="_blank" rel="noreferrer" className="brutalist-link">Twitter</a>
+                  <a href="https://x.com/Kiranku61063138" target="_blank" rel="noreferrer" className="brutalist-link">Twitter</a>
                 </li>
               </ul>
             </div>
